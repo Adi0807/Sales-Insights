@@ -1,5 +1,5 @@
 # Sales-Insights
-Created a Sales Insight Dashboard from an SQL data Set performed analysis on it on MYSQL and created dashboard for the same in Tableau
+Created a Sales Insight Dashboard from an SQL data Set performed analysis on it on MYSQL and created dashboard for the same in Tableau and Power BI
 
 Sales Insights
 This project analyzes sales data to uncover insights into revenue trends, product performance, and customer behavior. Using SQL for data extraction and transformation, and a Tableau dashboard for visualization, the project provides a comprehensive view of key sales metrics. These insights can help optimize sales strategies, product offerings, and marketing efforts.
@@ -30,13 +30,13 @@ Product Details: Product category, subcategory, and price.
 Customer Information: Customer demographics, purchase frequency, and region.
 Tools and Technologies
 SQL: For data extraction, transformation, and querying.
-Tableau: For interactive data visualization and dashboard creation.
+Tableau/Power BI: For interactive data visualization and dashboard creation.
 Methodology
 Data Extraction and Cleaning: Using SQL to clean the dataset, handle missing values, and ensure data consistency.
 Data Aggregation and Transformation: Writing SQL queries to calculate key metrics such as total revenue, profit, and product performance.
 Visualization and Dashboarding: Building a Tableau dashboard to visually represent insights and allow for interactive exploration of the data.
 Dashboard Features
-The Tableau dashboard includes several visualizations:
+The Tableau/Power BI dashboard includes several visualizations:
 
 Revenue Trends: A time-series analysis showing revenue and profit trends, helping identify seasonal patterns.
 Product Performance: A breakdown of revenue and profit by product category and subcategory to highlight top and underperforming products.
